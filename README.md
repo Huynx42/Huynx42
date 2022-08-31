@@ -4,10 +4,15 @@ I am a full-stack JavaScript ( with NodeJs and ReactJS).
 
 Nice to meet you.
 ⚡⚡⚡
-🔭 My Social 
-----
-. [LinkedIn](https://www.linkedin.com/feed/)
 
+----
+ My Social 📲
+ 
+----
+You can find me on the following social media platforms or send me an email:
+. 💻 [LinkedIn](https://www.linkedin.com/feed/)
+. 🗒 [Facebook](https://www.facebook.com/)
+. 💬 [huynx42@gmail.com]()
 <!--
 **Huynx42/Huynx42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
