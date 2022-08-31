@@ -4,11 +4,9 @@ I am a full-stack JavaScript ( with NodeJs and ReactJS).
 
 Nice to meet you.
 ⚡⚡⚡
-
 ----
  My Social 📲
- 
-----
+ ----
 You can find me on the following social media platforms or send me an email:
 - 💻 [LinkedIn](https://www.linkedin.com/in/huy-nguyen-xuan-03192a24a/)
 - 🗒 [Facebook](https://www.facebook.com/)
