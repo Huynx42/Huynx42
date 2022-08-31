@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nguyen Xuan Huy 👋
+----
+I am a full-stack JavaScript ( with NodeJs and ReactJS).
+
+Nice to meet you.
+⚡⚡⚡
+🔭 My Social 
+----
+. [LinkedIn](https://www.linkedin.com/feed/)
 
 <!--
 **Huynx42/Huynx42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
