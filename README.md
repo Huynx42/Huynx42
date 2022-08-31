@@ -10,7 +10,7 @@ Nice to meet you.
  
 ----
 You can find me on the following social media platforms or send me an email:
-- 💻 [LinkedIn](https://www.linkedin.com/feed/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/huy-nguyen-xuan-03192a24a/)
 - 🗒 [Facebook](https://www.facebook.com/)
 - 💬 [huynx42@gmail.com]()
 <!--
