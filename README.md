@@ -9,7 +9,7 @@ Nice to meet you.
  ----
 You can find me on the following social media platforms or send me an email:
 - 💻 [LinkedIn](https://www.linkedin.com/in/huy-nguyen-xuan-03192a24a/)
-- 🗒 [Facebook](https://www.facebook.com/)
+- 🗒 [Facebook]([https://www.facebook.com/](https://www.facebook.com/ouddupo/))
 - 💬 [huynx42@gmail.com]()
 <!--
 **Huynx42/Huynx42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
